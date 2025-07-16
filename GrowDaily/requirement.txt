@@ -1,0 +1,10 @@
+# --- Project Dependencies ---
+
+# Matplotlib: For creating static, animated, and interactive visualizations in Python.
+matplotlib
+
+# CustomTkinter: A modern and customizable Python UI library based on Tkinter.
+customtkinter
+
+# Pillow (PIL Fork): Used for image processing, including opening, manipulating, and saving many different image file formats.
+Pillow
