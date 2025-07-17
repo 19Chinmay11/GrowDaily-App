@@ -25,7 +25,7 @@ GrowDaily is a desktop habit tracker built using Python and Tkinter that helps u
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/growdaily.git
+   git clone https://github.com/19Chinmay11/growdaily.git
    cd growdaily
    ```
 
