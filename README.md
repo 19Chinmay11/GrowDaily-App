@@ -31,7 +31,7 @@ GrowDaily is a desktop habit tracker built using Python and Tkinter that helps u
 
 2. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
    ```
 
 3. **Run the app**
